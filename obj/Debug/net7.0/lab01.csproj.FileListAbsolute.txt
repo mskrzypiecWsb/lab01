@@ -1,0 +1,15 @@
+D:\VS\Projects\lab01\bin\Debug\net7.0\lab01.exe
+D:\VS\Projects\lab01\bin\Debug\net7.0\lab01.deps.json
+D:\VS\Projects\lab01\bin\Debug\net7.0\lab01.runtimeconfig.json
+D:\VS\Projects\lab01\bin\Debug\net7.0\lab01.dll
+D:\VS\Projects\lab01\bin\Debug\net7.0\lab01.pdb
+D:\VS\Projects\lab01\obj\Debug\net7.0\lab01.csproj.AssemblyReference.cache
+D:\VS\Projects\lab01\obj\Debug\net7.0\lab01.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\lab01\obj\Debug\net7.0\lab01.AssemblyInfoInputs.cache
+D:\VS\Projects\lab01\obj\Debug\net7.0\lab01.AssemblyInfo.cs
+D:\VS\Projects\lab01\obj\Debug\net7.0\lab01.csproj.CoreCompileInputs.cache
+D:\VS\Projects\lab01\obj\Debug\net7.0\lab01.dll
+D:\VS\Projects\lab01\obj\Debug\net7.0\refint\lab01.dll
+D:\VS\Projects\lab01\obj\Debug\net7.0\lab01.pdb
+D:\VS\Projects\lab01\obj\Debug\net7.0\lab01.genruntimeconfig.cache
+D:\VS\Projects\lab01\obj\Debug\net7.0\ref\lab01.dll
